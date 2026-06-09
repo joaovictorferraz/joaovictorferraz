@@ -8,7 +8,7 @@
 Aqui estão algumas ideias para você começar:
 
 - 🔭 Atualmente estou trabalhando:
-em um Estágio de Suporte de TI
+como Analista de Sistemas Junior
 - 🌱 Atualmente estou aprendendo: JavaScript,Node.js,PHP,Html e Css.
 - 📫 Como entrar em contato comigo: 
 Pelas Informações a baixo!
