@@ -16,8 +16,8 @@ Pelas Informações a baixo!
 
 <div align="center">
   <a href="https://github.com/joaovictorferraz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorferraz&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorferraz&layout=compact&langs_count=7&theme=default#gh-light-mode-only"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorferraz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorferraz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
